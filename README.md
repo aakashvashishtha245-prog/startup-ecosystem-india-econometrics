@@ -54,3 +54,33 @@ Key steps include:
 
 ## Repository Structure
 
+data/ → Raw dataset
+code/ → R scripts used for estimation and diagnostics
+report/ → Final econometrics project report
+
+
+---
+
+## Main Findings
+
+- Higher education institutions have the strongest positive effect on startup activity.
+- GDP per capita and public capital outlay also significantly increase startup formation.
+- After removing influential observations, the model explains about 85% of the variation in startup counts across states.
+
+---
+
+## How to Reproduce
+
+1. Open the R scripts in the `code/` folder  
+2. Load the dataset from the `data/` folder  
+3. Run the scripts in order to replicate the results, diagnostics, and models reported in the paper.
+
+---
+
+## Authors
+
+Aakash Vashishtha  
+Debasmita Poddar  
+
+MA Economics  
+Indian Institute of Foreign Trade (IIFT)
