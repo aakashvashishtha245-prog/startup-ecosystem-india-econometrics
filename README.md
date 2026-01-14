@@ -76,11 +76,3 @@ report/ → Final econometrics project report
 3. Run the scripts in order to replicate the results, diagnostics, and models reported in the paper.
 
 ---
-
-## Authors
-
-Aakash Vashishtha  
-Debasmita Poddar  
-
-MA Economics  
-Indian Institute of Foreign Trade (IIFT)
